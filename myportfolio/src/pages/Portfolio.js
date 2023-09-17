@@ -12,12 +12,12 @@ const Portfolio = () => {
            
             <div className="row">
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0 ">
-              <div class="card shadow p-3 mb-5 bg-white rounded " >
-                <img src="/img/portfolio/wfg.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">WFG</h5>
-                  <p class="card-text">The WFG is a business opportunity about helping protect people in your community while having the flexibility to grow your business as large as you desire.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="card shadow p-3 mb-5 bg-white rounded " >
+                <img src="/img/portfolio/wfg.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">WFG</h5>
+                  <p className="card-text">The WFG is a business opportunity about helping protect people in your community while having the flexibility to grow your business as large as you desire.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -34,12 +34,12 @@ const Portfolio = () => {
               </div>
 
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/ipc.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">Investment Planning Council</h5>
-                  <p class="card-text">IPC is an Investment Planning Council which provides finanicial solutions for life. Contributed in  credit tracker module, Multiple User Access, Generate Reports, Cyles regeneration, Carry Over credits, Mautic Emails, etc.</p>
-                  <a href="#"  rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/ipc.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">Investment Planning Council</h5>
+                  <p className="card-text">IPC is an Investment Planning Council which provides finanicial solutions for life. Contributed in  credit tracker module, Multiple User Access, Generate Reports, Cyles regeneration, Carry Over credits, Mautic Emails, etc.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -55,12 +55,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/thia.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">THIA travel Insurance Program</h5>
-                  <p class="card-text">TRIP is an in-depth, online curriculum about travel health insurance.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/thia.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">THIA travel Insurance Program</h5>
+                  <p className="card-text">TRIP is an in-depth, online curriculum about travel health insurance.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -76,12 +76,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/sunlife.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">Sunlife Financial</h5>
-                  <p class="card-text">Contributed in development of new modules and developed product report and student.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/sunlife.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">Sunlife Financial</h5>
+                  <p className="card-text">Contributed in development of new modules and developed product report and student.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -97,12 +97,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/opi.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">Olivers Admin Portal</h5>
-                  <p class="card-text">Contributed in development of Admin Portal new modules like User-role-sites permisions,TimeDocker 2 API integration for All employee usage tacking,SME Portal - Quiz question Auto saving details  , Proctering report Updates , Generated reports, CIPR report etc.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/opi.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">Olivers Admin Portal</h5>
+                  <p className="card-text">Contributed in development of Admin Portal new modules like User-role-sites permisions,TimeDocker 2 API integration for All employee usage tacking,SME Portal - Quiz question Auto saving details  , Proctering report Updates , Generated reports, CIPR report etc.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -118,12 +118,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/kookla.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">Kookla</h5>
-                  <p class="card-text">Kookla is your go-to website for booking wellness and beauty treatments.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/kookla.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">Kookla</h5>
+                  <p className="card-text">Kookla is your go-to website for booking wellness and beauty treatments.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -139,12 +139,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/CE-Network.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">CE-Network</h5>
-                  <p class="card-text">CE Network is to deliver the best in approved online education for licensed professionals.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/CE-Network.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">CE-Network</h5>
+                  <p className="card-text">CE Network is to deliver the best in approved online education for licensed professionals.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -160,12 +160,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/tico.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">TICO - Travel Industry Council of Ontario</h5>
-                  <p class="card-text">TICO is an organization mandated by the Ontario government to administer the Ontario Travel Industry Act, 2002 and Ontario Regulation 26/05 which governs all of the approximately 2,100 travel retailers and travel wholesalers registered in Ontario. TICO does not sell any travel services.</p>
-                  <a href="#"  rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/tico.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">TICO - Travel Industry Council of Ontario</h5>
+                  <p className="card-text">TICO is an organization mandated by the Ontario government to administer the Ontario Travel Industry Act, 2002 and Ontario Regulation 26/05 which governs all of the approximately 2,100 travel retailers and travel wholesalers registered in Ontario. TICO does not sell any travel services.</p>
+                
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -181,12 +181,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/umg.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">UMG</h5>
-                  <p class="card-text">Collaborate to work on differ Artist site to update there new Album through Spotify API on their site.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/umg.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">UMG</h5>
+                  <p className="card-text">Collaborate to work on differ Artist site to update there new Album through Spotify API on their site.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -202,12 +202,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/PixelPoint.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">PixelPoint</h5>
-                  <p class="card-text">PixelPoint id for Full-service restaurant point of sale software powering SMBs and global locations.</p>
-                  <a href="#"  rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/PixelPoint.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">PixelPoint</h5>
+                  <p className="card-text">PixelPoint id for Full-service restaurant point of sale software powering SMBs and global locations.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -223,12 +223,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/remax.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">Remax</h5>
-                  <p class="card-text">Remax is a Property retail site. Condributed in making modificatio.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/remax.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">Remax</h5>
+                  <p className="card-text">Remax is a Property retail site. Condributed in making modificatio.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -244,12 +244,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/sidejobs.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">SideJobs</h5>
-                  <p class="card-text">SideJobs platform gives unlimited access and convenience to users wanting to make money or purchase almost any service you can think of.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/sidejobs.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">SideJobs</h5>
+                  <p className="card-text">SideJobs platform gives unlimited access and convenience to users wanting to make money or purchase almost any service you can think of.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -265,12 +265,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/openkey.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">OpenKey</h5>
-                  <p class="card-text">OpenKey, the leading provider of digital key solutions, allows guests to unlock rooms with their mobile devices, saving them time and your business money.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/openkey.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">OpenKey</h5>
+                  <p className="card-text">OpenKey, the leading provider of digital key solutions, allows guests to unlock rooms with their mobile devices, saving them time and your business money.</p>
+                 
                 </div>
               </div>
                 {/* <div className="shadow p-3 mb-5 bg-white rounded">
@@ -288,12 +288,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/visaexpress.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">VisaExpress</h5>
-                  <p class="card-text">SPassport service and visa expediter offers express US passport service and helps to expedite international travel visa and business visa to multiple countries.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/visaexpress.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">VisaExpress</h5>
+                  <p className="card-text">SPassport service and visa expediter offers express US passport service and helps to expedite international travel visa and business visa to multiple countries.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -310,12 +310,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/p2b.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">P2B</h5>
-                  <p class="card-text">P2B is an mining industry. Contributed in creating Admin portal for managing Inventory.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/p2b.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">P2B</h5>
+                  <p className="card-text">P2B is an mining industry. Contributed in creating Admin portal for managing Inventory.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -331,12 +331,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/ashley.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">Ashley</h5>
-                  <p class="card-text">Ashley Furniture Industries, Inc. is an American home furnishings manufacturer and retailer, headquartered in Arcadia, Wisconsin. I have created wordpress site for it's initial stage.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/ashley.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">Ashley</h5>
+                  <p className="card-text">Ashley Furniture Industries, Inc. is an American home furnishings manufacturer and retailer, headquartered in Arcadia, Wisconsin. I have created wordpress site for it's initial stage.</p>
+                 
                 </div>
               </div>
                 {/* <div  className="shadow p-3 mb-5 bg-white rounded">
@@ -352,12 +352,12 @@ const Portfolio = () => {
                 </div> */}
               </div>
               <div className="col-md-6 col-lg-4 mb-5 mb-md-0  ">
-              <div class="shadow p-3 mb-5 bg-white rounded card" >
-                <img src="img/portfolio/iSite.png" class="card-img-top" alt="..." />
-                <div class="card-body">
-                  <h5 class="card-title">iSite</h5>
-                  <p class="card-text">iSite is a application used by engineer whoever work at the scene of the site to sign in, take the scene photos,and record the detail of site.</p>
-                  <a href="#" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+              <div className="shadow p-3 mb-5 bg-white rounded card" >
+                <img src="img/portfolio/iSite.png" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <h5 className="card-title">iSite</h5>
+                  <p className="card-text">iSite is a application used by engineer whoever work at the scene of the site to sign in, take the scene photos,and record the detail of site.</p>
+                 
                 </div>
               </div>
                   {/* <div  className="shadow p-3 mb-5 bg-white rounded">

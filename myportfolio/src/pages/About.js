@@ -29,7 +29,7 @@ const About = () => {
                         <a className="social-icon" href="https://www.linkedin.com/in/kaur2192aman/" target='_   blank' rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a>
                         <a className="social-icon" href="https://github.com/kaur2192aman/portfolio.git" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} /></a>
                         {/* <a className="social-icon" href="#!"><FontAwesomeIcon icon={faTwitter} /></a> */}
-                        <a className="social-icon" href="https://www.facebook.com/kaur.2192aman/" target="_blank"><FontAwesomeIcon icon={faFacebookF} /></a>
+                        <a className="social-icon" href="https://www.facebook.com/kaur.2192aman/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faFacebookF} /></a>
                     </div>
                 </div>
             </section>
